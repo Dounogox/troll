@@ -1,0 +1,14 @@
+td{
+	color: red;
+	font: Consolas;
+}
+
+.anh{
+	float: right;
+}
+
+footer{
+	text-align: center;
+	background-color: red;
+	padding: 25px;
+}
